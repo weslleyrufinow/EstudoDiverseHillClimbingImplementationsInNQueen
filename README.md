@@ -1,2 +1,2 @@
 # EstudoDiverseHillClimbingImplementationsInNQueen
- Código de Estudo de Intelingencia Artificial, para implementações de HillClimbing no Problema das n rainhas
+ Código de Estudo de Inteligencia Artificial, para implementações de HillClimbing no Problema das n rainhas
